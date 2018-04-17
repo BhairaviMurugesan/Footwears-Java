@@ -1,0 +1,9 @@
+#footer{ 
+    height: 50px; 
+    background-color: black;
+}
+.copyrights{
+    color: white;
+    float: right;
+    padding : 15px
+}
